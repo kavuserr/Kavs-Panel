@@ -29,7 +29,7 @@ local Window = Rayfield:CreateWindow({
 
 local Tab = Window:CreateTab("Kavs Panel", 4483362458) -- Title, Image
 
-local Section = Tab:CreateSection("Op Panel")
+local Section = Tab:CreateSection("Panel")
 
 local Button = Tab:CreateButton({
     Name = "Silent Aim",
